@@ -3,7 +3,7 @@ export const navLinks = [
     {
       id: "solutions",
       title: "Solutions",
-      subItems: ["Embedded Systems", "Wheeling", "Waste Valorization", "Carbon Credits"],
+      subItems: ["Embedded Systems", "Wheeling", "Waste Valorization", "Carbon Credits","Hydrogen Technology"],
     },
     {
       id: "projects",

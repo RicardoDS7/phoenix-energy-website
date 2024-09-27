@@ -18,3 +18,21 @@
   width: 100%; /* The underline expands on hover */
   display:block;
 }
+
+.green-gradient {
+  background: linear-gradient(90deg, #43C89F, #43C89F);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.blue-gradient {
+  background: linear-gradient(90deg, #44C1C7, #44C1C7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.blue-green-gradient {
+  background: linear-gradient(90deg, #44C1C7, #43C89F);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
